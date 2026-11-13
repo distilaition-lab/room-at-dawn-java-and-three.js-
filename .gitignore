@@ -7,3 +7,4 @@ audio_src/
 *.log
 .claude/
 public/bake/tmp_*.bin
+canyon/bake/
